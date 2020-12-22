@@ -7,3 +7,10 @@
 
 ### Вывод программы 
 
+![](https://github.com/AnnaMinkova/Tsisa_lab_03/blob/main/лр3-1.jpg?raw=true)
+
+![](https://github.com/AnnaMinkova/Tsisa_lab_03/blob/main/лр3-2.jpg?raw=true)
+
+![](https://github.com/AnnaMinkova/Tsisa_lab_03/blob/main/лр3-3.jpg?raw=true)
+
+![](https://github.com/AnnaMinkova/Tsisa_lab_03/blob/main/лр3-4.jpg?raw=true)
